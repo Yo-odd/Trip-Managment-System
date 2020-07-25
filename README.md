@@ -55,4 +55,5 @@ The basic trip booking,tracking expense and payment gateway mini project
     <img src="TMS_snaps/payment.jpg" width="50%">
     <img src="TMS_snaps/transaction_via_payTm.jpg" width="49%">
 </p>
+<hr/>
 <img src="TMS_snaps/sucessful_transaction.jpg">
