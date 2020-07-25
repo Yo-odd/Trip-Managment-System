@@ -1,0 +1,7 @@
+ //creating virtual form...paste this code at the bottom where the insertion query for package is written in the php file...
+                    echo "<form id=\"login\" action=\"[link for the redirecting page]\" method=\"post\">";
+                    // foreach ($_POST as $_SESSION['userid']) {
+                    if($_POST) {
+                        echo "<input type=\"hidden\" name='".htmlentities($_SESSION['userid'])."'>";
+                    }
+                    echo "<script type=\"text/javascript\">document.getElementById('login').submit();</script>";
