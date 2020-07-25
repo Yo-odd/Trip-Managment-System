@@ -49,7 +49,7 @@ The basic trip booking,tracking expense and payment gateway mini project
     <img src="TMS_snaps/groupMembers.jpg" width="50%">
     <img src="TMS_snaps/expense .jpg" width="49%">
 </p>
-### Make Payment
+###  PayTm as Payment Gateway
 <p float="left">
     <img src="TMS_snaps/payment.jpg" width="50%">
     <img src="TMS_snaps/transaction_via_payTm.jpg" width="49%">
