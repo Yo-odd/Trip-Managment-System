@@ -35,9 +35,9 @@ The basic trip booking,tracking expense and payment gateway mini project
 ### log in...
 ![](login.jpg)
 ### Register Account...
-![](login.jpg)
+![](/TMS snaps/register acc.jpg)
 ### Register Package...
-![](login.jpg)
+![](/TMS snaps/registration.jpg)
 <p float="left">
     <img src="login.jpg" alt="Trulli" width="45%">
     <img src="login.jpg" alt="Trulli" width="45%">
