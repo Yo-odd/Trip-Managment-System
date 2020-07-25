@@ -1,4 +1,4 @@
-# Trip-Managment-System
+# Trip-Managment-System (Mini Project)
 The basic trip booking,tracking expense and payment gateway mini project
 
 ### Dependencies
@@ -31,14 +31,21 @@ The basic trip booking,tracking expense and payment gateway mini project
      (MID, ORDERID, TXNTYPE, REFUNDAMOUNT, TXNID, REFID)
   2.  To generate checksum, call the following method. This function returns the checksum as a string.
      getRefundChecksumFromArray($arrayList, $key, $sort=1)
-# Here's some sneek peek...
+### The workspace dir snapshot
+![](/TMS_snaps/directories.jpg)
+# Here's some project sneek peek...
 ### log in...
 ![](login.jpg)
 ### Register Account...
-![](/TMS snaps/register acc.jpg)
+![](/TMS_snaps/register_acc.jpg)
 ### Register Package...
-![](/TMS snaps/registration.jpg)
+![](/TMS_snaps/registration.jpg)
+### Home Page...
+![](/TMS_snaps/HomePage.png)
+### Choose Package...
+![](/TMS_snaps/packages.jpg)
+### Planning/Managing Trip Expenses 
 <p float="left">
-    <img src="login.jpg" alt="Trulli" width="45%">
-    <img src="login.jpg" alt="Trulli" width="45%">
+    <img src="TMS_snaps/groupMembers.jpg" alt="Trulli" width="45%">
+    <img src="TMS_snaps/expense .jpg" alt="Trulli" width="45%">
 </p>
