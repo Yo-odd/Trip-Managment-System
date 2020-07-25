@@ -10,4 +10,9 @@ The basic trip booking,tracking expense and payment gateway mini project
   -  src: https://tympanus.net/codrops/2018/11/27/image-reveal-hover-effects/
 # Here's some sneek peek...
 ### log in...
-![Image of login page](login.jpg)
+![](login.jpg)
+### log in...
+<p float="left">
+<img src="login.jpg" alt="alt text" width="32%">
+<img src="login.jpg" alt="alt text" width="32%">
+</p>
